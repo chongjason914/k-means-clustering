@@ -23,5 +23,5 @@ The customers have rated various movies and each assigned a unique genre, giving
 - Comedy: the average score given by the customer for comedies
 - Fantasy: the average score given by the customer for fantasy films
 
-## Medium Article 
+## Medium article 
 Link to full write-up on Start it Up [here](https://medium.com/swlh/customer-segmentation-using-k-means-clustering-in-r-a74d512a4cfa). 
